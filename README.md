@@ -122,7 +122,7 @@ p.note { display: none; }
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~alis</marquee></p>
 
 <!--流れ文字の挿入例-->
-<h1><span class="yellow"><marquee behavior="left">!!! 2025/07/16、お散歩コースのお花達から公園のグラジオラスまで!!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 2025/07/14-16、お散歩コースのお花達から公園のグラジオラスまで!!!</marquee></span></h1>
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -130,7 +130,7 @@ p.note { display: none; }
 <!--ここから下が、本体部分-->
 
  
-<h2><span class="yellow">お散歩コースのお花達です</span></h2>
+<h2><span class="yellow">14日、お散歩コースのお花達です</span></h2>
 <a href="20250716_001.JPG" target="_blank"><img src="20250716_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250716_002.JPG" target="_blank"><img src="20250716_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250716_003.JPG" target="_blank"><img src="20250716_003.JPG" alt="サンプル画像" width="900" /></a>
@@ -165,7 +165,7 @@ p.note { display: none; }
 <a href="20250716_020.JPG" target="_blank"><img src="20250716_020.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250716_021.JPG" target="_blank"><img src="20250716_021.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">天気の変化が激しくて、またまた滝のような雨<br>画像クリックで動画再生します</span></h2>
+<h2><span class="yellow">15日は天気の変化が激しくて、またまた滝のような雨<br>画像クリックで動画再生します</span></h2>
 <a href="IMG_8075.MOV" target="_blank"><img src="20250716_022.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">16日は曇り空の中、公園のお花達</span></h2>
