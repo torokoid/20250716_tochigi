@@ -186,8 +186,8 @@ p.note { display: none; }
 
 
 <br><br>
-<h2><span class="yellow">今日のBGMは Lionel Richie, Air Supply,Elton John, Bee Gees, Journey, Billy Joel - Soft Rock Ballads 70s 80s 90s</span></h2>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ln-FsppHyvY?si=3cDxQ3vpPHFwX_tb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+<h2><span class="yellow">今日のBGMは Musicas Internacionais Mais Tocadas 2025 💙 Sad Songs For Broken Hearts 💙 Depressing Songs Playlist</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HGWJzhxw6aw?si=zENgTWAvS5uU8tty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 
 
 
